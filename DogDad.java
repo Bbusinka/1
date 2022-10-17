@@ -15,7 +15,7 @@ public class DogDad extends DogMom {
                            if(getWiek()==1) {
                                System.out.println("Wiek psa: "+getWiek()+" rok");}
                            if (getWiek()>1 && getWiek()<5){
-                               System.out.println("Wiek psa: "+getWiek()+" lata");}
+                               System.out.println("Wiek psa: "+getWiek() + " lata");}
                            if (getWiek()>=5){
                                System.out.println("Wiek psa: "+getWiek()+" lat"); }
         System.out.println( "Charakter psa: "+ charakter+"\n" +
